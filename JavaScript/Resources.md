@@ -1,0 +1,2 @@
+- MasteringJS: https://masteringjs.io/fundamentals
+- JavaScriptInfo: https://javascript.info

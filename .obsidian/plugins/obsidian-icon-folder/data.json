@@ -6,8 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#ffffff",
     "recentlyUsedIcons": [
-      "SiTailwindcss",
-      "SiNextdotjs"
+      "LiBookOpen",
+      "FabSass",
+      "IbArchive",
+      "SiJavascript",
+      "LiCode"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -18,6 +21,20 @@
       "left": 0
     }
   },
-  "Next.js Code Snippets": "SiNextdotjs",
-  "TailwindCSS Snippets": "SiTailwindcss"
+  "Tailwind CSS": "SiTailwindcss",
+  "Tailwind CSS/Index.md": "LiBookOpen",
+  "Next.js": "SiNextdotjs",
+  "Next.js/Index.md": "LiBookOpen",
+  "React.js": "RiReactjsFill",
+  "React.js/Snippets": "LiCode",
+  "JavaScript": "SiJavascript",
+  "JavaScript/Snippets": "LiCode",
+  "JavaScript/Resources.md": "IbArchive",
+  "SCSS": "FabSass",
+  "SCSS/Snippets": "LiCode",
+  "React.js/Resources.md": "IbArchive",
+  "React.js/Snippets/Index.md": "LiBookOpen",
+  "JavaScript/Snippets/Index.md": "LiBookOpen",
+  "SCSS/Snippets/Index.md": "LiBookOpen",
+  "Tailwind CSS/Resources.md": "IbArchive"
 }

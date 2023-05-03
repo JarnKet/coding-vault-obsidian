@@ -20,27 +20,16 @@ import Script from 'next/script';
 import '../styles/globals.scss';
 
 function MyApp({ Component, pageProps }) {
-
 	return (
-
 		<>
-
 			<ThemeProvider enableSystem={true} attribute="class">
-			
 				<Layout>
-				
 					<Component {...pageProps} />
-				
 				</Layout>
-			
 			</ThemeProvider>
-
 		</>
-
 	);
-
 }
-
 export default MyApp;
 ```
 

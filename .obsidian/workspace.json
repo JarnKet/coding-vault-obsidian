@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "aa15d7c0b845cb52",
+        "id": "1e280178fb960a31",
         "type": "tabs",
         "children": [
           {
-            "id": "a6683c7950374a90",
+            "id": "58eaa200bebdfc3e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day Planners/Day Planner-20230502.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "daa5ac6b6ed63f57",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
+              "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,6 +58,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "c909f78c3cd8d2f8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -135,26 +130,10 @@
             }
           },
           {
-            "id": "a5e9f69a820ba1ff",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "f8cff9008500717a",
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "99edaf2bf251cde2",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
               "state": {}
             }
           },
@@ -167,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -185,18 +164,40 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "3435cc15f5c68a24",
+  "active": "f8cff9008500717a",
   "lastOpenFiles": [
+    "Tailwind CSS/Resources.md",
+    "Tailwind CSS/Index.md",
+    "SCSS/Snippets/Index.md",
+    "SCSS/Snippets/Glassmorphism.md",
+    "React.js/Snippets/Index.md",
+    "React.js/Resources.md",
+    "Pasted image 20230503111218.png",
+    "Pasted image 20230503111144.png",
+    "JavaScript/Snippets/Index.md",
+    "JavaScript/Resources.md",
+    "JavaScript/Snippets/ການນຳໃຊ້ JavaScript .map() ແລະ .filter() ພ້ອມກັນ..md",
+    "SCSS/Snippets",
+    "SCSS",
+    "JavaScript/Snippets",
+    "JavaScript",
+    "React.js/Snippets",
+    "React.js",
+    "Next.js/Index.md",
+    "Tailwind CSS/Tailwind + Vite.js Installation.md",
+    "Tailwind CSS/Tailwind + Next.js Installation.md",
+    "Next.js/Theme Provider.md",
+    "Tailwind CSS/Tailwind Config.md",
+    "Next.js/Next.js Package Dependencies.md",
+    "2023-05-03.md",
+    "Day Planners/Day Planner-20230503.md",
     "Day Planners/Day Planner-20230502.md",
-    "Next.js Code Snippets/Next.js Package Dependencies.md",
-    "Next.js Code Snippets/Theme Provider.md",
-    "TailwindCSS Snippets/Tailwind + Next.js Installation.md",
     "2023-05-02.md",
     "TailwindCSS Snippets/Untitled Kanban.md",
     "Test.md",
     "Day Planners",
     "Next.js Code Snippets/Tailwind CSS + Next.js.md",
-    "TailwindCSS Snippets",
-    "Next.js Code Snippets"
+    "Tailwind CSS",
+    "Next.js"
   ]
 }

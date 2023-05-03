@@ -1,0 +1,1 @@
+- [[ການນຳໃຊ້ JavaScript .map() ແລະ .filter() ພ້ອມກັນ.]]

@@ -4,21 +4,42 @@
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:TailwindCSS",
+      "query": "path:Tailwind CSS",
       "color": {
         "a": 1,
-        "rgb": 1347327
+        "rgb": 34047
       }
     },
     {
-      "query": "path:\"Next.js Code Snippets\"",
+      "query": "path:\"Next.js\"",
       "color": {
         "a": 1,
         "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:JavaScript",
+      "color": {
+        "a": 1,
+        "rgb": 14810880
+      }
+    },
+    {
+      "query": "path:SCSS",
+      "color": {
+        "a": 1,
+        "rgb": 16726208
+      }
+    },
+    {
+      "query": "path:React.js",
+      "color": {
+        "a": 1,
+        "rgb": 2251685
       }
     }
   ],
@@ -32,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.7488306879214779,
+  "scale": 0.2302986914135269,
   "close": true
 }

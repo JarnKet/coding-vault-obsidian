@@ -1,4 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Minimal"
+  "cssTheme": "GitHub Theme",
+  "translucency": false,
+  "nativeMenus": false
 }
