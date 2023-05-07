@@ -1,8 +1,13 @@
 [
   "obsidian-kanban",
   "obsidian-mind-map",
-  "obsidian-icon-folder",
   "table-editor-obsidian",
   "obsidian-git",
-  "obsidian-projects"
+  "obsidian-projects",
+  "obsidian-icon-folder",
+  "copy-as-html",
+  "obsidian-code-block-enhancer",
+  "obsidian-markdown-formatting-assistant-plugin",
+  "make-md",
+  "obsidian-banners"
 ]

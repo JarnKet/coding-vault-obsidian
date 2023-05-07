@@ -1,1 +1,2 @@
+- ການຕິດຕັ້ງ || [[Installation]]
 - ແພັກເກດຕ່າງໆທີ່ແນະນຳ || [[Next.js Package Dependencies]]

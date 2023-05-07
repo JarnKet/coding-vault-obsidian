@@ -7,10 +7,10 @@
     "iconColor": "#ffffff",
     "recentlyUsedIcons": [
       "LiBookOpen",
+      "LiCode2",
+      "SiTailwindcss",
       "FabSass",
-      "IbArchive",
-      "SiJavascript",
-      "LiCode"
+      "FabReact"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -19,22 +19,27 @@
       "right": 4,
       "bottom": 0,
       "left": 0
-    }
+    },
+    "iconInTabsEnabled": false
   },
   "Tailwind CSS": "SiTailwindcss",
   "Tailwind CSS/Index.md": "LiBookOpen",
   "Next.js": "SiNextdotjs",
   "Next.js/Index.md": "LiBookOpen",
-  "React.js": "RiReactjsFill",
-  "React.js/Snippets": "LiCode",
+  "React.js": "FabReact",
+  "React.js/Snippets": "LiCode2",
   "JavaScript": "SiJavascript",
-  "JavaScript/Snippets": "LiCode",
+  "JavaScript/Snippets": "LiCode2",
   "JavaScript/Resources.md": "IbArchive",
   "SCSS": "FabSass",
-  "SCSS/Snippets": "LiCode",
+  "SCSS/Snippets": "LiCode2",
   "React.js/Resources.md": "IbArchive",
   "React.js/Snippets/Index.md": "LiBookOpen",
   "JavaScript/Snippets/Index.md": "LiBookOpen",
   "SCSS/Snippets/Index.md": "LiBookOpen",
-  "Tailwind CSS/Resources.md": "IbArchive"
+  "Tailwind CSS/Resources.md": "IbArchive",
+  "Next.js/Package Dependencies": "LiPackage",
+  "HTML": "RiHtml5Line",
+  "HTML/SEO/Index.md": "LiBookOpen",
+  "HTML/SEO/Assets": "RiArchiveLine"
 }

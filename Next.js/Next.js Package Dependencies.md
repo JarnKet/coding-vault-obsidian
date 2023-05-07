@@ -1,3 +1,0 @@
-- next-themes: https://github.com/pacocoursey/next-themes || [[Theme Provider]]
-- tailwindCSS: https://tailwindcss.com/docs/guides/nextjs || [[Tailwind + Next.js Installation]]
-- 

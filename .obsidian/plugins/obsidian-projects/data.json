@@ -1,6 +1,101 @@
 {
   "version": 2,
-  "projects": [],
+  "projects": [
+    {
+      "fieldConfig": {
+        "status": {
+          "options": [
+            "Doing",
+            "Done",
+            "Backlog"
+          ]
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects - Demo Project",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "name": {
+                "width": 360
+              },
+              "path": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "name": "Table",
+          "id": "881aad28-cf79-49da-9b1c-de9b5ce512b7",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "status",
+            "priorityField": "weight"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "name": "Board",
+          "id": "d38bf5ef-bb41-44cf-8518-11cf90ec92a0",
+          "type": "board"
+        },
+        {
+          "config": {
+            "interval": "month",
+            "dateField": "due",
+            "checkField": "published"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "name": "Calendar",
+          "id": "6ca996e6-230d-4336-b078-115e5b9751cf",
+          "type": "calendar"
+        },
+        {
+          "config": {
+            "coverField": "image"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "name": "Gallery",
+          "id": "041cc069-24c8-409b-8f78-711a04cf16d7",
+          "type": "gallery"
+        }
+      ],
+      "name": "Demo project",
+      "id": "c6d6549f-533d-4ec5-ae2b-160da7fcd44d",
+      "path": "Projects - Demo Project"
+    }
+  ],
   "preferences": {
     "projectSizeLimit": 1000,
     "frontmatter": {

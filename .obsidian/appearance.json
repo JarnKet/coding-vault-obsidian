@@ -1,6 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "GitHub Theme",
+  "cssTheme": "Obsidianotion",
   "translucency": false,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "interfaceFontFamily": "Noto Sans Lao",
+  "monospaceFontFamily": "JetBrains Mono"
 }

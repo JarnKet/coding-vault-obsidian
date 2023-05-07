@@ -1,3 +1,7 @@
+---
+tag: React.js, Design
+banner: "https://www.eyasdesign.com/wp-content/uploads/2021/06/1280x552-%E2%80%93-1.jpg"
+---
 ```scss
 .card {
     background: transparentize(#fff, 0.5);

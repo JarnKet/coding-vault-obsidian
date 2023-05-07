@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "1e280178fb960a31",
+        "id": "36aa5e0d0ea9124f",
         "type": "tabs",
         "children": [
           {
-            "id": "58eaa200bebdfc3e",
+            "id": "97bbe9d4a7bdbe40",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Next.js/JSM Crash Course/Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbcfe6606a12f714",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Next.js/JSM Crash Course/SEO.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,6 +85,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "32f30cfa044d2f7a",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -89,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Next.js/JSM Crash Course/SEO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Next.js/JSM Crash Course/SEO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Next.js/JSM Crash Course/SEO.md"
+              }
             }
           },
           {
@@ -144,13 +173,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "3489a8ffb42e6947",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,43 +198,57 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
   "active": "f8cff9008500717a",
   "lastOpenFiles": [
-    "Tailwind CSS/Resources.md",
-    "Tailwind CSS/Index.md",
-    "SCSS/Snippets/Index.md",
-    "SCSS/Snippets/Glassmorphism.md",
-    "React.js/Snippets/Index.md",
-    "React.js/Resources.md",
-    "Pasted image 20230503111218.png",
-    "Pasted image 20230503111144.png",
-    "JavaScript/Snippets/Index.md",
-    "JavaScript/Resources.md",
-    "JavaScript/Snippets/ການນຳໃຊ້ JavaScript .map() ແລະ .filter() ພ້ອມກັນ..md",
-    "SCSS/Snippets",
-    "SCSS",
-    "JavaScript/Snippets",
-    "JavaScript",
-    "React.js/Snippets",
-    "React.js",
+    "Next.js/JSM Crash Course/Index.md",
+    "Next.js/JSM Crash Course/API Route.md",
+    "Next.js/JSM Crash Course/Data Fetching.md",
+    "Next.js/JSM Crash Course/App Route.md",
+    "Next.js/JSM Crash Course/Render Component.md",
+    "Next.js/JSM Crash Course/SEO.md",
     "Next.js/Index.md",
-    "Tailwind CSS/Tailwind + Vite.js Installation.md",
+    "Next.js/JSM Crash Course/JSM Crash Course.md",
+    "Next.js/JSM Crash Course/Assets/Pasted image 20230507145831.png",
+    "Next.js/JSM Crash Course/Assets/Pasted image 20230507142644.png",
+    "Next.js/JSM Crash Course/Assets/Pasted image 20230507144524.png",
+    "Next.js/JSM Crash Course/Assets/Pasted image 20230507144122.png",
+    "Next.js/Installation.md",
+    "Next.js/JSM Crash Course/Folder Structure.md",
+    "App Route",
+    "Next.js/JSM Crash Course/Assets/Pasted image 20230507141053.png",
+    "Next.js/JSM Crash Course/Assets/Pasted image 20230507140356.png",
+    "Next.js/JSM Crash Course/Assets/Pasted image 20230507140053.png",
+    "HTML/SEO/OG Meta Tag.md",
+    "Next.js/JSM Crash Course/Assets",
+    "Next.js/JSM Crash Course/Assets/Pasted image 20230507131327.png",
+    "Next.js/JSM Crash Course",
+    "HTML/SEO/Index.md",
+    "HTML/SEO/Assets/Pasted image 20230506210636.png",
+    "HTML/SEO/Assets",
+    "HTML/SEO/Assets/Pasted image 20230506204522.png",
+    "SCSS/Snippets/Glassmorphism.md",
     "Tailwind CSS/Tailwind + Next.js Installation.md",
-    "Next.js/Theme Provider.md",
-    "Tailwind CSS/Tailwind Config.md",
-    "Next.js/Next.js Package Dependencies.md",
-    "2023-05-03.md",
-    "Day Planners/Day Planner-20230503.md",
-    "Day Planners/Day Planner-20230502.md",
-    "2023-05-02.md",
-    "TailwindCSS Snippets/Untitled Kanban.md",
-    "Test.md",
-    "Day Planners",
-    "Next.js Code Snippets/Tailwind CSS + Next.js.md",
-    "Tailwind CSS",
-    "Next.js"
+    "React.js/Snippets/Index.md",
+    "Next.js/Package Dependencies/Theme Provider.md",
+    "Next.js/Package Dependencies/next-font.md",
+    "Next.js/Package Dependencies/Next.js Package Dependencies.md",
+    "JavaScript/Snippets/ການນຳໃຊ້ JavaScript .map() ແລະ .filter() ພ້ອມກັນ..md",
+    "Context/spacesLastSync.log",
+    "Context",
+    "HTML/SEO",
+    "HTML",
+    "JavaScript/Snippets/Index.md",
+    "Next.js/Package Dependencies",
+    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
+    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
+    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
+    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
+    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
+    "Projects - Demo Project",
+    "Tailwind CSS/Resources.md"
   ]
 }

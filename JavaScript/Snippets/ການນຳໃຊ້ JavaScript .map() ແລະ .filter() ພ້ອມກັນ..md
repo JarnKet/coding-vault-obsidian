@@ -1,10 +1,13 @@
+---
+tag: JavaScript
+---
 Source: https://masteringjs.io/tutorials/fundamentals/map-filter
 
 ## 1. filter()
 
 > ເປັນ Array Method ທີ່ໃຊ້ກັດກອງຂໍ້ມູນຕາມເງື່ອນໄຂທີ່ກຳນົດຂຶ້ນມາ.
 
-```javascript
+```js
 const nums = [25, 125, 75, 200];
 
 function atLeast100(num) {
@@ -18,7 +21,7 @@ nums.filter(atLeast100); // [125, 200]
 
 > ເປັນ Array Method ທີ່ນຳເອົາຂໍ້ມູນຕ່າງໆ ໄປແປຮູບເປັນຂໍ້ມູນອີກຊຸດໃໝ່.
 
-```javascript
+```js
 const products = [
   { name: 'T-Shirt', price: 25 },
   { name: 'Headphones', price: 125 },
@@ -36,7 +39,7 @@ console.log(products.map(product => product.price));
 ### 3.1 map() ກ່ອນ filter()
 
 
-```javascript
+```js
 const products = [
   { name: 'T-Shirt', price: 25 },
   { name: 'Headphones', price: 125 },
@@ -58,7 +61,7 @@ products.map(product => product.price).filter(atLeast100).length;
 
 ### 3.2 filter() ກ່ອນ map()
 
-```javascript
+```js
 const orders = [
   { quantity: 2, item: { name: 'T-Shirt', price: 25 } },
   { quantity: 1, item: { name: 'Keyboard', price: 75 } },
