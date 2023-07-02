@@ -1,2 +1,3 @@
-- ການຕິດຕັ້ງ || [[Installation]]
-- ແພັກເກດຕ່າງໆທີ່ແນະນຳ || [[Next.js Package Dependencies]]
+- ການຕິດຕັ້ງ || [[Next.js/Installation]]
+- ແພັກເກດຕ່າງໆທີ່ແນະນຳ || [[Package Dependencies/Index]]
+- ຮຽນຮູ້ດ້ວຍຕົນເອງ || [App Router | Next.js (nextjs.org)](https://nextjs.org/docs/app)

@@ -4,5 +4,6 @@
   "translucency": false,
   "nativeMenus": false,
   "interfaceFontFamily": "Noto Sans Lao",
-  "monospaceFontFamily": "JetBrains Mono"
+  "monospaceFontFamily": "JetBrains Mono",
+  "baseFontSize": 15
 }

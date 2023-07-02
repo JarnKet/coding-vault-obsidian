@@ -15,7 +15,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "root",
+  "activeView": "all",
   "hideFrontmatter": true,
   "activeSpace": "",
   "spacesCompactMode": false,
@@ -68,7 +68,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1683473168477,
+  "spacesAutoBackupLast": 1688263839490,
   "spacesUseAlias": false,
   "precreateVaultSpace": true
 }

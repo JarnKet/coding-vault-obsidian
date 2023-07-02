@@ -1,0 +1,6 @@
+- next-themes: https://github.com/pacocoursey/next-themes || [[Theme Provider]]
+- tailwindCSS: https://tailwindcss.com/docs/guides/nextjs || [[Tailwind + Next.js Installation]]
+- next-font:  https://www.npmjs.com/package/@next/font || [[next-font]]
+- react-icons:  [react-icons/react-icons: svg react icons of popular icon packs (github.com)](https://github.com/react-icons/react-icons)|| [[react-icons]]
+- uuid: [uuid - npm (npmjs.com)](https://www.npmjs.com/package/uuid) [[uuid]]
+- react-share: [react-share - npm (npmjs.com)](https://www.npmjs.com/package/react-share) || [[React Share]]
